@@ -2,4 +2,4 @@
 
 Variabel, Operator, Seleksi Kondisi.
 
-![tugas2](tugas2.png)
+![tugas2](screen/tugas2.png)
